@@ -1,0 +1,14 @@
+<div id="list">
+    {{#each archive}}
+    <div class="listStyle">
+      <a class="art" href={{url}}><h1 class="title"><i class="fa fa-gg indent"></i>{{title}}</h1></a>
+      <p class="abstract">{{abstract}}</p>
+      <div class="posit">
+        <i class="fa fa-neuter indent"></i><span class="date indent">{{date}}</span>
+        {{#each tags}}
+          <a class="tag" href="/home"><span class="lab">{{this}}</span></a>
+        {{/each}}
+      </div>
+    </div>
+    {{/each}}
+</div>

@@ -1,0 +1,24 @@
+{
+	"archive":[
+		{"title":"express3-handlebars脚手架基本模板（一）",
+		"url":"article1",
+		"abstract":"接触到express的基本的用法",
+		"tags":["express", "node", "express3-handlebars"],
+		"date":"2016-5-10"},
+		{"title":"article1",
+		"url":"article2",
+		"abstract":"测试文章内容",
+		"tags":["js", "node", "hbs"],
+		"date":"2016-5-12"},
+		{"title":"article2",
+		"url":"test1",
+		"abstract":"测试文章内容",
+		"tags":["js", "node", "hbs"],
+		"date":"2016-5-12"},
+		{"title":"article3",
+		"url":"test2",
+		"abstract":"测试文章内容",
+		"tags":["js", "node", "hbs"],
+		"date":"2016-5-12"}
+		]
+}
